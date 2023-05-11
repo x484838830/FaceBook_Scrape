@@ -60,11 +60,11 @@
                 comment_texts.append(f"{commenter_name}: {comment_text}")
             return '\n'.join(comment_texts)
 
-### 設定要抓取多少篇
+### 設定要爬多少篇文章
 ###### 這裡以抓取200篇為例
         if i == 200:
 
-### 抓取完後休息多久
+### 爬完一篇要休息多久
 ###### 設定此項可以有效避免爬蟲
         sleep(randint(10, 60))
 
