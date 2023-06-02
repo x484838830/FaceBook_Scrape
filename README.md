@@ -1,7 +1,7 @@
 # 2023Facebook_Scraper /Facebook資料探勘/ Facebook數據獲取
 
-##### 作者所使用Python軟件為Facebook-Scraper，可詳閱此官方文件：https://github.com/kevinzg/facebook-scraper#post-example。
-##### 作者測試與更改之程式碼，皆為2023/05/01測試，測試python軟體為3.11，若後續需更新或任何問題在請聯繫。
+##### 使用Python軟件為Facebook-Scraper，可詳閱此官方文件：https://github.com/kevinzg/facebook-scraper#post-example。
+##### 測試與更改之程式碼，皆為2023/05/01測試，測試python軟體為3.11，若後續需更新或任何問題在請聯繫。
 
 
 ## 安裝套件
